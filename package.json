@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:thejfreitas/node-express-typescript-boilerplate.git",
-  "author": "J. de Freitas <juniormfreitas@gmail.com>",
+  "author": "J. de Freitas",
   "license": "MIT",
   "scripts": {
     "start": "ts-node-dev ./src/app.ts",
