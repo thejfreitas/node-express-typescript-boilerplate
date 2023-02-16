@@ -1,3 +1,3 @@
 # node-express-typescript-boilerplate
 
-Expected NodeJs version `14.17.0`
+Expected NodeJs version `16.14.0`
